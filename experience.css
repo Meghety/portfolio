@@ -1,9 +1,7 @@
 *{
     font-family: roboto,Arial, Helvetica, sans-serif;
 }
-body{
-    height: 3000px;
-}
+
 .container{
     position: relative;
     width: 100%;
