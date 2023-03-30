@@ -169,3 +169,18 @@ top: 61px;
     text-decoration: underline;
 }
 
+.resume{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.resume button{
+    width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    background-color: rgb(188, 188, 188);
+}
+
+
